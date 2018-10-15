@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "My New Project",
+    "name": "reactproject",
     "description": "This project is really great.",
-    "slug": "my-new-project",
+    "slug": "reactproject",
     "privacy": "public",
     "sdkVersion": "30.0.0",
     "platforms": ["ios", "android"],
