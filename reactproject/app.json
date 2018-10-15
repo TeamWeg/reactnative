@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "reactproject",
+    "name": "Meme Machine",
     "description": "This project is really great.",
-    "slug": "reactproject",
+    "slug": "Meme Machine",
     "privacy": "public",
     "sdkVersion": "30.0.0",
     "platforms": ["ios", "android"],
